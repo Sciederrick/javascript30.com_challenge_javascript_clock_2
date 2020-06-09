@@ -4,7 +4,7 @@
 *Minute hand
 *Seconds hand
 
-Use of transform and transition applied through *Javascript*
-Find these ![javascript30.com URI](https://javascript30.com)
+Use of transform and Date Object to move hour, minute and seconds hands by means of *Javascript*
+https://javascript30.com
 
 ![project snapshot](./Capture.PNG)
